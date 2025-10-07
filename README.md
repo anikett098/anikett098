@@ -2,14 +2,8 @@
 <!-- 🖤 DARK MODE GITHUB PROFILE README -->
 <h1 align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="35px" alt="wave"/> 
-  Hey, I'm <span style="color:#a78bfa;">Aniket Mishra</span>
+  Hey, I'm <span style="color:#a78bfa;">Aniket </span>
 </h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=440&lines=Forward+Deployed+Engineer+🚀;Open+Source+Contributor+🌸;Tech+Explorer+and+Problem+Solver+💡" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
@@ -47,18 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket098&show_icons=true&theme=tokyonight&hide_border=true" alt="Aniket's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket098&theme=tokyonight&hide_border=true" alt="Aniket's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket098&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
