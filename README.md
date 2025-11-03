@@ -8,53 +8,13 @@
 ---
 
 ### 🪶 About Me  
-- 🧩 Passionate about **Backend, Cloud, and DevOps**  
-- ⚙️ Love working with **Java, Python, Docker, and GitHub Actions**  
+- 🧩 Passionate about Backend  
+- ⚙️ Love working with **Java, Docker, and GitHub Actions**  
 - 🎯 Focused on **building scalable systems**  
 - ☕ Coffee + Code = Perfect combo  
 
 ---
 
-### 🌸 Hacktoberfest & Holopin Badges
-<p align="center">
-  <a href="https://hacktoberfest.com/">
-    <img src="https://img.shields.io/badge/Hacktoberfest-2025-8A2BE2?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest Badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://holopin.io/@anikett098">
-    <img src="https://holopin.me/anikett098" alt="@anikett098's Holopin Badges" />
-  </a>
-</p>
-
----
-
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/aniket098">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aniketmishra/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   ✨ <i>"Keep learning, keep contributing, and keep building!"</i> ✨
